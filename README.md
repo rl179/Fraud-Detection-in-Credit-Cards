@@ -36,3 +36,7 @@ python FraudDetection.py
 Here is a preview of the interactive dashboard.
 
 ![My Dashboard Screenshot](https://github.com/rl179/Fraud-Detection-in-Credit-Cards/blob/main/Dashboard0.png)
+![My Dashboard Screenshot for High Risk](https://github.com/rl179/Fraud-Detection-in-Credit-Cards/blob/main/Dashboard1.png)
+![My Dashboard Screenshot for Medium Risk](https://github.com/rl179/Fraud-Detection-in-Credit-Cards/blob/main/Dashboard2.png)
+![My Dashboard Screenshot for Low Risk](https://github.com/rl179/Fraud-Detection-in-Credit-Cards/blob/main/Dashboard3.png)
+
