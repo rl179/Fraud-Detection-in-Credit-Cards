@@ -30,3 +30,9 @@ Run the main script:
 ```bash
 python FraudDetection.py
 ```
+
+## Data Visualization in Power BI
+### Fraud Detection Dashboard
+Here is a preview of the interactive dashboard.
+
+![My Dashboard Screenshot](images/Dashboard0.png)
