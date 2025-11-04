@@ -35,4 +35,4 @@ python FraudDetection.py
 ### Fraud Detection Dashboard
 Here is a preview of the interactive dashboard.
 
-![My Dashboard Screenshot](images/Dashboard0.png)
+![My Dashboard Screenshot](https://github.com/rl179/Fraud-Detection-in-Credit-Cards/blob/main/Dashboard0.png)
